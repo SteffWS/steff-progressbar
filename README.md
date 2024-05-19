@@ -39,9 +39,9 @@ After selecting the style, pick your preferred color from the menu.
 ## Contact
 For any issues, suggestions, or custom requests, join our Discord community or visit the project link.
 
-Our Discord: https://discord.gg/SyNGm3eXmP
+- Our Discord: https://discord.gg/SyNGm3eXmP
 
-Project Link: https://github.com/SteffWS/steff-progressbar
+- Project Link: https://github.com/SteffWS/steff-progressbar
 
 ## Acknowledgments
 Special thanks to the following developers for their contributions to the designs used in this script:
