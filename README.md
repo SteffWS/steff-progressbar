@@ -1,4 +1,4 @@
-# Steff Scripts Progress Bar
+# Steff Scripts Progress Bar For FiveM
 
 ## Overview
 Enhance your FiveM server with the Steff Scripts Progress Bar, a versatile script that allows players
