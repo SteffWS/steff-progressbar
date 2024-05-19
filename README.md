@@ -20,6 +20,7 @@ Place the steff-progressbar folder in your FiveM server resources directory.
 
 3. Update server.cfg:
 Add the following line to your server.cfg to ensure the resource is started.
+
 ensure steff-progressbar
 
 ## Requirements
@@ -28,6 +29,7 @@ qb-menu: https://github.com/qbcore-framework/qb-menu
 ## Usage
 1. Open the Progress Bar Menu:
 Players can open the progress bar selection menu by using the command:
+
 /progressbar
 
 2. Select Your Preferred Style:
