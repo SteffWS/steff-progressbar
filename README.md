@@ -40,6 +40,7 @@ After selecting the style, pick your preferred color from the menu.
 For any issues, suggestions, or custom requests, join our Discord community or visit the project link.
 
 Our Discord: https://discord.gg/SyNGm3eXmP
+
 Project Link: https://github.com/your_username/repo_name
 
 ## Acknowledgments
